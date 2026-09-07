@@ -1,11 +1,3 @@
-/* =========================================================
-   FOOTYHUB — Design tokens
-   Palette: deep pitch green + chalk white + jersey red accent
-   Display type: Archivo Black (heavy, poster-like)
-   Labels/condensed: Barlow Condensed (kit-number energy)
-   Body: Inter
-========================================================= */
-
 :root {
     --pitch-1: #0F2417;
     --pitch-2: #0A1A10;
